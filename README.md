@@ -8,7 +8,7 @@ Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 
 ![image](https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg) 
 
-<img width="150" height="150" src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg"/>
+<img width=90% height=90% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg"/>
 
 # To Do
 
