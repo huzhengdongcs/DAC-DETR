@@ -13,14 +13,14 @@ Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 # To Do
 Release the code and models.
 
+# Citing DAC-DETR
+If you find DAC-DETR useful to your research, please consider citing:
 
-<table><tr><td bgcolor=gray> 灰色背景 </td></tr></table>
-
-<table><tr><td bgcolor=Gray>@inproceedings{
+``` @inproceedings{
 anonymous2023dacdetr,
 title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
 author={Anonymous},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=8JMexYVcXB}
-}</td></tr></table>      
+}
