@@ -17,9 +17,9 @@ Release the code and models.
 If you find DAC-DETR useful to your research, please consider citing:
 
 ``` @inproceedings{
-anonymous2023dacdetr,
+hu2023dacdetr,
 title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
-author={Anonymous},
+author={Hu, Zhengdong and Sun, Yifan and Wang, Jingdong and Yang, Yi},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
 year={2023},
 url={https://openreview.net/forum?id=8JMexYVcXB}
