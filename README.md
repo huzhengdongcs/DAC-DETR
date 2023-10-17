@@ -16,8 +16,8 @@ Release the code and models.
 # Citing DAC-DETR
 If you find DAC-DETR useful to your research, please consider citing:
 
-``` @inproceedings{
-hu2023dacdetr,
+```
+@inproceedings{hu2023dacdetr,
 title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
 author={Hu, Zhengdong and Sun, Yifan and Wang, Jingdong and Yang, Yi},
 booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
