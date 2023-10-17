@@ -6,7 +6,10 @@ Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 
 &#x1F4E7; &#x1F4E7; &#x1F4E7; Contact: huzhengdongcs@gmail.com
 
-![image](https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg)
+![image](https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg) 
+
+<img width="150" height="150" src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg"/>
+
 # To Do
 
 Release the code and models.
