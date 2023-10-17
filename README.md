@@ -13,6 +13,9 @@ Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 # To Do
 Release the code and models.
 
+
+<table><tr><td bgcolor=gray> 灰色背景 </td></tr></table>
+
 <table><tr><td bgcolor=Gray>@inproceedings{
 anonymous2023dacdetr,
 title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
