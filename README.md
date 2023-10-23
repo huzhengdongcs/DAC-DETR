@@ -9,6 +9,9 @@ Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 
 <div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/pipline.jpg"/></div>
 
+# News
+
+[Sep. 22 2023] DAC-DETR: Divide the Attention Layers and Conquer, has been accepted at NeurIPS 2023 as a poster.
 
 # To Do
 Release the code and models.
