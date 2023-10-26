@@ -1,4 +1,4 @@
-# DAC-DETR: Divide the Attention Layers and Conquer
+# DAC-DETR 
 
 This is the PyTorch implementation of the paper "DAC-DETR: Divide the Attention Layers and Conquer".
 
