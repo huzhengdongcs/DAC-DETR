@@ -9,9 +9,6 @@ Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 # News
 [Sep. 22 2023] DAC-DETR: Divide the Attention Layers and Conquer, has been accepted at NeurIPS 2023 as a poster.
 
-# To Do
-Release the code and models.
-
 
 ## Methods：
 
@@ -31,6 +28,9 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 
 <div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe1.jpg"/></div>
 <div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe2.jpg"/></div>
+
+# To Do
+Release the code and models.
 
 
 # Citing DAC-DETR
