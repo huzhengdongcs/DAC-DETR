@@ -16,7 +16,7 @@ This paper reveals a characteristic of DEtection Transformer (DETR) that negativ
 
 ## Analysis
 
-we count the averaged number of queries that have large affinity with each object. 
+We count the averaged number of queries that have large affinity with each object. 
 Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2) improves the quality of the closest queries.y-axis denotes “avg number of queries / object".
 
 <div align=center> <img width=100% height=100% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/analyse.jpg"/></div>
