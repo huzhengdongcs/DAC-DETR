@@ -32,11 +32,18 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 ## To Do
 Release the code and models.
 
-
 ## Citing DAC-DETR
 If you find DAC-DETR useful to your research, please consider citing:
 
 ```
+<font color="purple">@inproceedings{hu2023dacdetr,
+title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
+author={Zhengdong Hu and Yifan Sun and Jingdong Wang and Yi Yang},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=8JMexYVcXB}
+}</font>
+
 @inproceedings{hu2023dacdetr,
               title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
               author={Zhengdong Hu and Yifan Sun and Jingdong Wang and Yi Yang},
