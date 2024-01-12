@@ -45,10 +45,10 @@ Below are some key experimental details for your reference:
 If you find DAC-DETR useful to your research, please consider citing:
 
 ```
-@inproceedings{hu2023dacdetr,
-              title={{DAC}-{DETR}: Divide the Attention Layers and Conquer},
-              author={Zhengdong Hu and Yifan Sun and Jingdong Wang and Yi Yang},
-              booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-              year={2023},
-              url={https://openreview.net/forum?id=8JMexYVcXB}
-              }
+@inproceedings{hu2023dac,
+  title={DAC-DETR: Divide the Attention Layers and Conquer},
+  author={Hu, Zhengdong and Sun, Yifan and Wang, Jingdong and Yang, Yi},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+
