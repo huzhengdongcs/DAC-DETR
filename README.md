@@ -31,19 +31,7 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 
 ## To Do
 
-Notes: You can first access the pytorch version of  'dac-detr + contrastive denoising (cdn)' from
-1. [Baidu Netdisk.](https://pan.baidu.com/s/1aIBlrkYSR1Td8f8t-S3w1g)  Access code is: nun6 (there is no space). 
-2. [Google Drive](https://drive.google.com/file/d/14pV5HLxTLmTgIoieFW2UQG2suanABqy2/view?usp=drive_link)
-   
-This model has been trained under 12 epochs, as detailed in the paper, and has achieved a result of 50.0. In addition to the code and model, I am also providing the training log. This should offer you a comprehensive overview of the training process and the model's performance throughout the various stages. We will release the whole code in the future.
-
-Below are some key experimental details for your reference:
-
-1. This code is implemented by PyTorch.
-2. You need to ' sh env_run.sh ' to prepare the basic environment. (including pycocotools, tqdm, cython, scipy)
-3. If you want to train the code, you can ' sh train.sh ', and use ' sh test.sh ' to evaluate the model.
-4. Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
-
+Release the code and models
 
 ## Citing DAC-DETR
 If you find DAC-DETR useful to your research, please consider citing:
