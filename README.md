@@ -30,7 +30,6 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 <div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe2.jpg"/></div>
 
 ## To Do
-Release the code and models.
 
 Notes: You can first access the pytorch version of  'dac-detr + contrastive denoising' from [Baidu Netdisk.](https://pan.baidu.com/s/1aIBlrkYSR1Td8f8t-S3w1g)  Access code is: nun6 (there is space). This model has been trained under 12 epochs, as detailed in the paper, and has achieved a result of 50.0. In addition to the code and model, I am also providing the training log. This should offer you a comprehensive overview of the training process and the model's performance throughout the various stages. We will release the whole code in the future.
 
