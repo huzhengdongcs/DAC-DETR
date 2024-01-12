@@ -37,7 +37,7 @@ Below are some key experimental details for your reference:
 
 1. This code is implemented by PyTorch.
 2. You need to ' sh env_run.sh ' to prepare the basic environment. (including pycocotools, tqdm, cython, scipy)
-3. If you want to train the code, you can ' sh train.sh ', and use ' sh eval.sh ' to evaluate the model.
+3. If you want to train the code, you can ' sh train.sh ', and use ' sh test.sh ' to evaluate the model.
 4. Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
 
 
