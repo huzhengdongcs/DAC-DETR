@@ -51,4 +51,3 @@ If you find DAC-DETR useful to your research, please consider citing:
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023}
 }
-
