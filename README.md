@@ -35,7 +35,7 @@ Notes: You can first access the pytorch version of  'dac-detr + contrastive deno
 1. [Baidu Netdisk.](https://pan.baidu.com/s/1aIBlrkYSR1Td8f8t-S3w1g?pwd=nun6) 
 2. [Google Drive](https://drive.google.com/file/d/14pV5HLxTLmTgIoieFW2UQG2suanABqy2/view?usp=drive_link)
    
-This model has been trained under 12 epochs, as detailed in the paper, and has achieved a result of 50.0. In addition to the code and model, I am also providing the training log. This should offer you a comprehensive overview of the training process and the model's performance throughout the various stages. We will release the whole code in the future.
+This model has been trained under 12 epochs, as detailed in the paper, and has achieved a result of 50.0. In addition to the code and model, we are also providing the training log. We will release the whole code in the future.
 
 Below are some key experimental details for your reference:
 
