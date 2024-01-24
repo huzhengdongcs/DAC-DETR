@@ -44,7 +44,7 @@ Below are some key experimental details for your reference:
 3. If you want to train the code, you can ' sh train.sh ', and use ' sh test.sh ' to evaluate the model.
 4. Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
 
-We will release the whole code in the future.
+We will release the whole code ASAP.
 
 ## Citing DAC-DETR
 If you find DAC-DETR useful to your research, please consider citing:
