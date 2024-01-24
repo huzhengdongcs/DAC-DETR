@@ -1,6 +1,6 @@
 # DAC-DETR 
 
-This is the official implementation (PyTorch and [PaddlePaddle](https://github.com/huzhengdongcs/DAC-DETR/tree/main/paddle)) of the paper "DAC-DETR: Divide the Attention Layers and Conquer".
+This is the official implementation (PyTorch and [PaddlePaddle](https://github.com/huzhengdongcs/DAC-DETR/tree/main/paddle)) of the paper "[DAC-DETR: Divide the Attention Layers and Conquer](https://openreview.net/pdf?id=8JMexYVcXB)".
 
 Authors: Zhengdong Hu, Yifan Sun, Jingdong Wang, Yi Yang
 
