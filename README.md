@@ -31,7 +31,7 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 
 ## To Do
 
-Notes: You can first access the pytorch version of  'dac-detr + contrastive denoising (cdn)' from
+Notes: You can first access the pytorch version of  'dac-detr + contrastive denoising (cdn)' and model from
 1. [Baidu Netdisk.](https://pan.baidu.com/s/1aIBlrkYSR1Td8f8t-S3w1g?pwd=nun6) 
 2. [Google Drive](https://drive.google.com/file/d/14pV5HLxTLmTgIoieFW2UQG2suanABqy2/view?usp=drive_link)
    
