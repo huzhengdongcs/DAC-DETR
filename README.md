@@ -54,15 +54,22 @@ data/
 ```
 
 ## Pretrain backbones
-You can download [Resnet50](https://drive.google.com/file/d/1vSEiR7td16dD7wNqZAb7I6txa69eln6i/view?usp=drive_link)  and [Swin_transformer](https://drive.google.com/file/d/1BSZHgF9cD9c4BqI47NwMxAxUxRphNKw6/view?usp=drive_link).
+You can download [Resnet50](https://drive.google.com/file/d/1vSEiR7td16dD7wNqZAb7I6txa69eln6i/view?usp=drive_link)  and [Swin_transformer](https://drive.google.com/file/d/1BSZHgF9cD9c4BqI47NwMxAxUxRphNKw6/view?usp=drive_link) and put them into ./initmodel
 
 ## Run
 
 Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
+
+For example, you can run dac_cdn_ice with 12 epochs by 
 ```
 sh train.sh 
 ```
 ## Eval
+
+The trained models are saved in output.
+
+For example, you can test dac_cdn_ice with 12 epochs by 
+
 ```
 sh test.sh
 ```
@@ -72,17 +79,17 @@ sh test.sh
 
 | Name | Backbone | epochs | AP | Model| log|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| dac_cdn| Res50 | 12 |  50.0 | [Google], [Baidu] | [Google], [Baidu] | 
-| dac_cdn| Res50 | 24 |  51.2 | [Google], [Baidu] | [Google], [Baidu]| 
-| dac_cdn_ice| Res50 | 12 |  50.9 | [Google], [Baidu] | [Google], [Baidu] | 
-| dac_cdn_ice| Res50 | 24 |  52.1 | [Google], [Baidu] | [Google], [Baidu] | 
-| dac_cdn | Swin_Large | 12 |  57.3 | [Google], [Baidu] | [Google], [Baidu] | 
-| dac_cdn_ice| Swin_Large | 12 |  58.1 | [Google], [Baidu] | [Google], [Baidu] | 
-| dac_cdn_ice| Swin_Large | 24 |  59.2 | [Google], [Baidu] | [Google], [Baidu] | 
+| dac_cdn| Res50 | 12 |  50.0 | [Google](https://drive.google.com/drive/folders/1PRZLpr7i6L1VycyKjUTMlpPyn5Bex8We?usp=drive_link), [Baidu](https://pan.baidu.com/s/1rYQXtblTLHzD9q38YIcwfw?pwd=7c7g) | [Google](https://drive.google.com/drive/folders/1PRZLpr7i6L1VycyKjUTMlpPyn5Bex8We?usp=drive_link), [Baidu](https://pan.baidu.com/s/1rYQXtblTLHzD9q38YIcwfw?pwd=7c7g) | 
+| dac_cdn| Res50 | 24 |  51.2 | [Google](https://drive.google.com/drive/folders/1Es-dilk_XCMQayFipCkGZZuW3RGdg2DY?usp=drive_link), [Baidu](https://pan.baidu.com/s/1_i5HHXI1JeNFr6j-mnXXkg?pwd=7ng5) | [Google](https://drive.google.com/drive/folders/1Es-dilk_XCMQayFipCkGZZuW3RGdg2DY?usp=drive_link), [Baidu](https://pan.baidu.com/s/1_i5HHXI1JeNFr6j-mnXXkg?pwd=7ng5)| 
+| dac_cdn_ice| Res50 | 12 |  50.9 | [Google](https://drive.google.com/drive/folders/1BxzkDRsDDengzINr0jhVW-6Yp2OSOLs8?usp=drive_link), [Baidu](https://pan.baidu.com/s/1nRk7aZhop_iOlAjBHBdXrg?pwd=4g63) | [Google](https://drive.google.com/drive/folders/1BxzkDRsDDengzINr0jhVW-6Yp2OSOLs8?usp=drive_link), [Baidu](https://pan.baidu.com/s/1nRk7aZhop_iOlAjBHBdXrg?pwd=4g63) | 
+| dac_cdn_ice| Res50 | 24 |  52.1 | [Google](https://drive.google.com/drive/folders/10HahQiv0KkFq6iYkM7KicPdl-HPmzm4g?usp=drive_link), [Baidu](https://pan.baidu.com/s/19Fb5dBmbym8Q5MMOe-GARQ?pwd=qw6n) | [Google](https://drive.google.com/drive/folders/10HahQiv0KkFq6iYkM7KicPdl-HPmzm4g?usp=drive_link), [Baidu](https://pan.baidu.com/s/19Fb5dBmbym8Q5MMOe-GARQ?pwd=qw6n) | 
+| dac_cdn | Swin_Large | 12 |  57.3 | [Google](https://drive.google.com/drive/folders/1T2tQn8TqdhbptATp7WzFx24SRSafNCEi?usp=drive_link), [Baidu](https://pan.baidu.com/s/1MmoKCsUODnLqYnC0hoiM8w?pwd=ybq2) | [Google](https://drive.google.com/drive/folders/1T2tQn8TqdhbptATp7WzFx24SRSafNCEi?usp=drive_link), [Baidu](https://pan.baidu.com/s/1MmoKCsUODnLqYnC0hoiM8w?pwd=ybq2) | 
+| dac_cdn_ice| Swin_Large | 12 |  58.1 | [Google], [Baidu](https://pan.baidu.com/s/1xUoq83gs19kzDLd_1Zu6Fg?pwd=sg3i) | [Google], [Baidu](https://pan.baidu.com/s/1xUoq83gs19kzDLd_1Zu6Fg?pwd=sg3i)  | 
+| dac_cdn_ice| Swin_Large | 24 |  59.3 | [Google], [Baidu](https://pan.baidu.com/s/1uA0tnnoztUaxQfMkD9TA7A?pwd=ffm4) | [Google], [Baidu](https://pan.baidu.com/s/1uA0tnnoztUaxQfMkD9TA7A?pwd=ffm4) | 
 
 ## Notes
 
-You can access the pytorch version of  'dac-detr + contrastive denoising (cdn)' and model from
+You can access the pytorch code of  'dac-detr + contrastive denoising (cdn)' and model from
 
 1. [Baidu Netdisk.](https://pan.baidu.com/s/1kBy3NDnd6J6WGwKQSerq1Q?pwd=yz3k)
 2. [Google Drive](https://drive.google.com/file/d/1EVq5umNRjM4UkVJA26O1ufvn0nkWPT17/view?usp=drive_link)
