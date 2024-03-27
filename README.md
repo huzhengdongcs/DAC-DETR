@@ -75,7 +75,7 @@ sh test.sh
 ```
 
 ## Models
-(updating)
+
 
 | Name | Backbone | epochs | AP | Model| log|
 |:---:|:---:|:---:|:---:|:---:|:---:|
