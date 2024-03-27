@@ -29,9 +29,49 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 <div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe1.jpg"/></div>
 <div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe2.jpg"/></div>
 
-## To Do
+## Installation
 
-Notes: You can first access the pytorch version of  'dac-detr + contrastive denoising (cdn)' and model from
+We use python=3.7.10, pytorch=1.8.0, cuda=11.1.
+
+Clone the repo
+```
+git https://github.com/huzhengdongcs/DAC-DETR.git
+cd DAC-DETR
+```
+Prepare environments
+
+```
+sh env_run.sh
+```
+
+## Data
+```
+data/
+  └── coco/
+     ├── train2017/
+     ├── val2017/
+     └── annotations/
+```
+
+## Pretrain backbones
+You can download [Resnet50](https://drive.google.com/file/d/1vSEiR7td16dD7wNqZAb7I6txa69eln6i/view?usp=drive_link)  and [Swin_transformer](https://drive.google.com/file/d/1BSZHgF9cD9c4BqI47NwMxAxUxRphNKw6/view?usp=drive_link).
+
+## Run
+
+Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
+```
+sh train.sh 
+```
+## Eval
+```
+sh test.sh
+```
+
+
+
+## Notes
+
+You can access the pytorch version of  'dac-detr + contrastive denoising (cdn)' and model from
 1. [Baidu Netdisk.](https://pan.baidu.com/s/1aIBlrkYSR1Td8f8t-S3w1g?pwd=nun6) 
 2. [Google Drive](https://drive.google.com/file/d/14pV5HLxTLmTgIoieFW2UQG2suanABqy2/view?usp=drive_link)
    
@@ -44,7 +84,7 @@ Below are some key experimental details for your reference:
 3. If you want to train the code, you can ' sh train.sh ', and use ' sh test.sh ' to evaluate the model.
 4. Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
 
-We will release the whole code ASAP.
+
 
 ## Citing DAC-DETR
 If you find DAC-DETR useful to your research, please consider citing:
