@@ -60,7 +60,7 @@ You can download [Resnet50](https://drive.google.com/file/d/1vSEiR7td16dD7wNqZAb
 
 Please note that our implementations are based on 8 A100 or 8 V100 GPUS.
 
-For example, you can run dac_cdn_ice with 12 epochs by 
+For example, you can run dac_cdn_ice with 12 epochs, Res50 by 
 ```
 sh train.sh 
 ```
@@ -68,7 +68,7 @@ sh train.sh
 
 The trained models are saved in output.
 
-For example, you can test dac_cdn_ice with 12 epochs by 
+For example, you can test dac_cdn_ice with 12 epochs, Res50 by 
 
 ```
 sh test.sh
