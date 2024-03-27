@@ -85,7 +85,7 @@ sh test.sh
 | dac_cdn_ice| Res50 | 24 |  52.1 | [Google](https://drive.google.com/drive/folders/10HahQiv0KkFq6iYkM7KicPdl-HPmzm4g?usp=drive_link), [Baidu](https://pan.baidu.com/s/19Fb5dBmbym8Q5MMOe-GARQ?pwd=qw6n) | [Google](https://drive.google.com/drive/folders/10HahQiv0KkFq6iYkM7KicPdl-HPmzm4g?usp=drive_link), [Baidu](https://pan.baidu.com/s/19Fb5dBmbym8Q5MMOe-GARQ?pwd=qw6n) | 
 | dac_cdn | Swin_Large | 12 |  57.3 | [Google](https://drive.google.com/drive/folders/1T2tQn8TqdhbptATp7WzFx24SRSafNCEi?usp=drive_link), [Baidu](https://pan.baidu.com/s/1MmoKCsUODnLqYnC0hoiM8w?pwd=ybq2) | [Google](https://drive.google.com/drive/folders/1T2tQn8TqdhbptATp7WzFx24SRSafNCEi?usp=drive_link), [Baidu](https://pan.baidu.com/s/1MmoKCsUODnLqYnC0hoiM8w?pwd=ybq2) | 
 | dac_cdn_ice| Swin_Large | 12 |  58.1 | [Google](https://drive.google.com/drive/folders/1BuaRWEiobVXLIBOt7VlavG8ZJcFTgp6S?usp=drive_link), [Baidu](https://pan.baidu.com/s/1xUoq83gs19kzDLd_1Zu6Fg?pwd=sg3i) | [Google](https://drive.google.com/drive/folders/1BuaRWEiobVXLIBOt7VlavG8ZJcFTgp6S?usp=drive_link), [Baidu](https://pan.baidu.com/s/1xUoq83gs19kzDLd_1Zu6Fg?pwd=sg3i)  | 
-| dac_cdn_ice| Swin_Large | 24 |  59.3 | [Google], [Baidu](https://pan.baidu.com/s/1uA0tnnoztUaxQfMkD9TA7A?pwd=ffm4) | [Google], [Baidu](https://pan.baidu.com/s/1uA0tnnoztUaxQfMkD9TA7A?pwd=ffm4) | 
+| dac_cdn_ice| Swin_Large | 24 |  59.3 | [Google](https://drive.google.com/drive/folders/141PiOLUzjdafcy_HC0xOaE0ateIiNtyk?usp=drive_link), [Baidu](https://pan.baidu.com/s/1uA0tnnoztUaxQfMkD9TA7A?pwd=ffm4) | [Google](https://drive.google.com/drive/folders/141PiOLUzjdafcy_HC0xOaE0ateIiNtyk?usp=drive_link), [Baidu](https://pan.baidu.com/s/1uA0tnnoztUaxQfMkD9TA7A?pwd=ffm4) | 
 
 ## Notes
 
