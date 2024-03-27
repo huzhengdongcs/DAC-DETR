@@ -67,7 +67,18 @@ sh train.sh
 sh test.sh
 ```
 
+## Models
+(updating)
 
+| Name | Backbone | epochs | AP | Model| log|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| dac_cdn| Res50 | 12 |  50.0 | [Google], [Baidu] | [Google], [Baidu] | 
+| dac_cdn| Res50 | 24 |  51.2 | [Google], [Baidu] | [Google], [Baidu]| 
+| dac_cdn_ice| Res50 | 12 |  50.9 | [Google], [Baidu] | [Google], [Baidu] | 
+| dac_cdn_ice| Res50 | 24 |  52.1 | [Google], [Baidu] | [Google], [Baidu] | 
+| dac_cdn | Swin_Large | 12 |  57.3 | [Google], [Baidu] | [Google], [Baidu] | 
+| dac_cdn_ice| Swin_Large | 12 |  58.1 | [Google], [Baidu] | [Google], [Baidu] | 
+| dac_cdn_ice| Swin_Large | 24 |  59.2 | [Google], [Baidu] | [Google], [Baidu] | 
 
 ## Notes
 
