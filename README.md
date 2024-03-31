@@ -45,6 +45,8 @@ sh env_run.sh
 ```
 
 ## Data
+
+mkdir ./data/
 ```
 data/
   └── coco/
