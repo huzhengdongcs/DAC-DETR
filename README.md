@@ -57,6 +57,7 @@ data/
 
 ## Pretrain backbones
 mkdir ./initmodel
+
 You can download [Resnet50](https://drive.google.com/file/d/1vSEiR7td16dD7wNqZAb7I6txa69eln6i/view?usp=drive_link)  and [Swin_transformer](https://drive.google.com/file/d/1BSZHgF9cD9c4BqI47NwMxAxUxRphNKw6/view?usp=drive_link) and put them into ./initmodel
 
 ## Run
