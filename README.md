@@ -24,10 +24,6 @@ Compared with the baseline, DAC-DETR 1) has more queries for each object, and 2)
 
 <div align=center> <img width=100% height=100% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/analyse.jpg"/></div>
 
-## Experiments
-
-<div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe1.jpg"/></div>
-<div align=center> <img width=80% height=80% src="https://github.com/huzhengdongcs/DAC-DETR/blob/main/figs/exe2.jpg"/></div>
 
 ## Installation
 
