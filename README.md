@@ -92,7 +92,7 @@ sh test.sh
 You can access the pytorch code of  'dac-detr + contrastive denoising (cdn)' and model from
 
 1. [Baidu Netdisk.](https://pan.baidu.com/s/1kBy3NDnd6J6WGwKQSerq1Q?pwd=yz3k)
-2. [Google Drive](https://drive.google.com/file/d/1EVq5umNRjM4UkVJA26O1ufvn0nkWPT17/view?usp=drive_link)
+2. [Google Drive](https://drive.google.com/file/d/1QB4_vssP1xvjdTygSJKyrRAFwEqB0foR/view?usp=drive_link)
 
 
 
